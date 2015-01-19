@@ -1,0 +1,7 @@
+<<<<<<< local
+compile.on.save=true
+user.properties.file=C:\\Users\\romy\\AppData\\Roaming\\NetBeans\\8.0.1\\build.properties
+=======
+compile.on.save=true
+user.properties.file=C:\\Users\\romy\\AppData\\Roaming\\NetBeans\\8.0.1\\build.properties
+>>>>>>> other
